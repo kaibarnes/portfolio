@@ -1,0 +1,22 @@
+.MenuBar{
+  width: 100vw;
+  height: 50px;
+  background-color: #f9f5f2;
+  bottom: 0;
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 10;
+}
+
+.MenuBar__icon{
+  height: 45px;
+  width: 45px;
+  z-index: 11;
+  cursor: pointer;
+}
+
+.MenuBar__icon--active .MenuBar__icon{
+  color: #48ecb6;
+}

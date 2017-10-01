@@ -1,0 +1,15 @@
+.Home{
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Home__sub-heading{
+  margin-top: 0;
+  margin-bottom: 10vh;
+}
+
+.Home__text {
+  margin: 0.1rem 0;
+}
