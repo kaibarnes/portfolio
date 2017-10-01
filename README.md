@@ -9,6 +9,6 @@ Understanding how to use this together with React Router was the most challengin
 
 You can view this site at http://kaibarnes.com
 
-If you have any questions about this site, or any interest in hiring, I'd love to hear from you.
+If you have any questions about this site, or any interest in hiring me, I'd love to hear from you.
 
 You can contact me here on Github or through the website itself at the url above.
